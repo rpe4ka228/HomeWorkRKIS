@@ -1,2 +1,2 @@
 # HomeWorkRKIS
-GitHub ДЗ
+Это мое выполнение ДЗ в GitHub
