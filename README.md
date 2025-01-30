@@ -1,3 +1,2 @@
 # HomeWorkRKIS
-Это мое выполнение ДЗ в GitHub2
-мухаммад предложил идею
+MadMuhammad
